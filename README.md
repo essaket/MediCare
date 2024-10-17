@@ -1,10 +1,10 @@
-# MediCare - Hospital Management Syste
+# MediCare
 
 MediCare is a comprehensive hospital management system that streamlines appointment scheduling, patient management, and doctor registration. The system includes a user-friendly front end, a dynamic dashboard, and a back end that handles user authentication and data management securely.
 
 ## Features
 
-- **User Authentication**: Secure login and sign-up for both patients and doctors.
+- **User Authentication**: Secure login and sign-up for patients and doctors.
 - **Appointment Management**: Patients can schedule and manage their appointments with doctors.
 - **Dashboard**: Dynamic dashboard displaying user information, appointments, and doctor details.
 - **Doctor Registration**: Doctors can register and manage their profiles, making it easy for patients to book consultations.
@@ -39,6 +39,8 @@ During development, I tackled several challenges, including:
 - **Notification System**: Adding email or SMS notifications for patients.
 - **Doctor Availability Tracking**: Enhance scheduling by integrating real-time doctor availability.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details
+---
+
+## Author
+* **Hicham Essaket** - [essaket](https://github.com/essaket)
